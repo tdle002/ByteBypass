@@ -1,2 +1,2 @@
 # ByteBypass
-Proxy server
+The best proxy server!
